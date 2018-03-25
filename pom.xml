@@ -30,7 +30,7 @@
     </properties>
 
     <build>
-        <finalName>desktestproject</finalName>
+        <finalName>cdektestproject</finalName>
         <defaultGoal>package</defaultGoal>
         <plugins>
             <plugin>

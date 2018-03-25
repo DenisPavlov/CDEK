@@ -1,6 +1,6 @@
-package desktestproject;
+package cdektestproject;
 
-import desktestproject.model.Entity;
+import cdektestproject.model.Entity;
 
 import java.util.Arrays;
 import java.util.List;

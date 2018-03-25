@@ -8,7 +8,7 @@
 <%--<jsp:include page="fragments/bodyHeader.jsp"/>--%>
 
 <section>
-    <jsp:useBean id="entity" type="desktestproject.model.Entity" scope="request"/>
+    <jsp:useBean id="entity" type="cdektestproject.model.Entity" scope="request"/>
     <h3>Добавить запись</h3>
     <hr>
     <form method="post" action="add">

@@ -22,7 +22,7 @@
         <property name="password" value="${database.password}"/>
     </bean>
 
-    <context:component-scan base-package="desktestproject.repository"/>
+    <context:component-scan base-package="cdektestproject.repository"/>
 
     <bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
         <constructor-arg ref="dataSource"/>

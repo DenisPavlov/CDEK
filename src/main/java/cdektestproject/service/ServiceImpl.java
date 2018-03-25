@@ -1,7 +1,7 @@
-package desktestproject.service;
+package cdektestproject.service;
 
-import desktestproject.model.Entity;
-import desktestproject.repository.Repository;
+import cdektestproject.model.Entity;
+import cdektestproject.repository.Repository;
 
 import java.util.List;
 import java.util.stream.Collectors;

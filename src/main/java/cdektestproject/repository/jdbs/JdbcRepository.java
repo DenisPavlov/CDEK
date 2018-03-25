@@ -1,7 +1,7 @@
-package desktestproject.repository.jdbs;
+package cdektestproject.repository.jdbs;
 
-import desktestproject.model.Entity;
-import desktestproject.repository.Repository;
+import cdektestproject.model.Entity;
+import cdektestproject.repository.Repository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;

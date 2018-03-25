@@ -1,6 +1,6 @@
-package desktestproject.service;
+package cdektestproject.service;
 
-import desktestproject.model.Entity;
+import cdektestproject.model.Entity;
 
 import java.util.List;
 

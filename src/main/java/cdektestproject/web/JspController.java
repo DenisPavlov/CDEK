@@ -1,7 +1,7 @@
-package desktestproject.web;
+package cdektestproject.web;
 
-import desktestproject.model.Entity;
-import desktestproject.service.Service;
+import cdektestproject.model.Entity;
+import cdektestproject.service.Service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

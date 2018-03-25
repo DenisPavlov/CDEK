@@ -1,7 +1,7 @@
-package desktestproject.service;
+package cdektestproject.service;
 
-import desktestproject.TestData;
-import desktestproject.model.Entity;
+import cdektestproject.TestData;
+import cdektestproject.model.Entity;
 import junit.framework.AssertionFailedError;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -12,9 +12,8 @@ import org.springframework.test.context.jdbc.SqlConfig;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
-import static desktestproject.TestData.ENTITY1;
+import static cdektestproject.TestData.ENTITY1;
 import static org.assertj.core.api.Assertions.assertThat;
 
 @ContextConfiguration({

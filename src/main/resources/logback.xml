@@ -20,7 +20,7 @@
         </encoder>
     </appender>
 
-    <logger name="desktestproject" level="debug"/>
+    <logger name="cdektestproject" level="debug"/>
     <logger name="org.springframework.web.servlet" level="debug"/>
 
     <root level="info">

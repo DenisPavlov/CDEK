@@ -1,4 +1,4 @@
-package desktestproject.model;
+package cdektestproject.model;
 
 public class Entity {
     private Integer id;
